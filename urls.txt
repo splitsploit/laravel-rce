@@ -1,0 +1,5 @@
+test.com
+zone-xsec.com
+http://google.com
+https://findsec.net/anjay
+http://9877-133-67-118-222.ngrok.io/
