@@ -7,4 +7,5 @@ Laravel PHPUNIT Rce Auto Exploit &amp; Retrieving information in .env (such as S
       # use python2
       python laravel.py
 
-# im not own this tools, big thanks to Zeerx & Xploitsec-ID
+- im not own this tools, big thanks to Zeerx & Xploitsec-ID
+- Also thanks to JogjaXploit Official Team
